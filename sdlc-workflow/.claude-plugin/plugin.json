@@ -1,0 +1,10 @@
+{
+  "name": "sdlc",
+  "version": "0.2.0",
+  "description": "Mission → research → grill → spec → tickets → implement → review → PR, in one command, on top of mattpocock-skills.",
+  "author": { "name": "Jonathan Birnbaum" },
+  "license": "MIT",
+  "keywords": ["sdlc", "workflow", "tdd", "code-review", "spec", "tickets"],
+  "dependencies": ["mattpocock-skills@mattpocock"],
+  "agents": ["./agents/implementer.md", "./agents/reviewer.md"]
+}

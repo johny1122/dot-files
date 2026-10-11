@@ -1,0 +1,14 @@
+{
+  "name": "sdlc",
+  "owner": { "name": "Jonathan Birnbaum" },
+  "description": "One-command SDLC pipeline plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "sdlc",
+      "source": "./",
+      "description": "Mission → research → grill → spec → tickets → implement → review → PR, on top of mattpocock-skills.",
+      "category": "engineering",
+      "keywords": ["sdlc", "workflow", "tdd", "code-review"]
+    }
+  ]
+}

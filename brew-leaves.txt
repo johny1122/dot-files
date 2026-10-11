@@ -1,0 +1,11 @@
+bat
+gh
+git
+git-lfs
+go
+jq
+k9s
+node@24
+protobuf
+zsh-autosuggestions
+zsh-syntax-highlighting
